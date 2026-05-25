@@ -1,0 +1,9 @@
+# Ignore Venv
+venv/
+
+
+# Experimental folders
+test/
+
+# Document files
+docs/
