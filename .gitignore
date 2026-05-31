@@ -7,3 +7,9 @@ test/
 
 # Document files
 docs/
+
+
+# Ignore .env files
+.env
+
+AI/db/
